@@ -1,0 +1,2 @@
+101,Mobile,25000.0,2
+4,Refrigerator,45248.0,2
